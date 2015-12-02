@@ -1,0 +1,22 @@
+{
+  "name": "imalyt",
+  "version": "1.0.0",
+  "description": "tbd",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-less": "^3.0.5",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igor",
+  "license": "ISC"
+}
